@@ -7,7 +7,7 @@
 
     <groupId>com.cricketpremierleague</groupId>
     <artifactId>CricketPremierLeague</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <packaging>war</packaging>
 
     <name>Cricket Premier League</name>
